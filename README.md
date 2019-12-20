@@ -1,6 +1,6 @@
 # MiniProject_3
 ## Contributor
-Karan Kaul
+Karan Kaul(kk629)
 
 ## About
 The project is a tutorial for building RESTful Blog APIs using python and flask and divided into four branches and deploying it on Heroku.
